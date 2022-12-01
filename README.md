@@ -6,7 +6,7 @@ Find out more about me & feel free to connect with me here:
 [![Medium Badge](https://img.shields.io/badge/BILL%20SALVAGGIO-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bill.salvggio)](https://medium.com/@bill.salvaggio)
 [![Gmail Badge](https://img.shields.io/badge/-billy.salvaggio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:billy.salvaggio@gmail.com)](mailto:billy.salvaggio@gmail.com)
 
-## ⚡ Technologiess
+## ⚡ Technologiees
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
