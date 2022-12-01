@@ -1,4 +1,4 @@
-My name is Bill Salvaggio. I am a cloud engineer interested and currently learning linux, all things cloud, DevOps, and AWS. Welcome!
+Hello- My name is Bill Salvaggio. I am a cloud engineer interested and currently learning linux, all things cloud, DevOps, and AWS. Welcome!
 
 Find out more about me & feel free to connect with me here:
 
