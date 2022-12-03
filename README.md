@@ -5,7 +5,7 @@ Find out more about me & feel free to connect with me here:
 [![Linkedin Badge](https://img.shields.io/badge/-BILL%20SALVAGGIO-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/william-salvaggio/)](https://www.linkedin.com/in/william-salvaggio/)
 [![Medium Badge](https://img.shields.io/badge/BILL%20SALVAGGIO-12100E?style=flat-square&logo=medium&logoColor=white&link=https://medium.com/@bill.salvggio)](https://medium.com/@bill.salvaggio)
 [![Gmail Badge](https://img.shields.io/badge/-billy.salvaggio@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:billy.salvaggio@gmail.com)](mailto:billy.salvaggio@gmail.com)
-[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)(https://github.com/topics/bitcoin)
+[![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)](http://github.com/topics/bitcoin)
 
 ## ⚡ Technologies 
 
